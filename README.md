@@ -1,7 +1,7 @@
-# ⚡ CMS MODEL 3D - HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ MÔ HÌNH 3D HIỆU NĂNG CAO
+# ⚡ TTH HELMETS - HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ NÓN BẢO HIỂM PHƯỢT CAO CẤP
 
-> **Báo Cáo Đồ Án Kết Thúc Môn: Xây dựng và tối ưu hệ thống thương mại điện tử chuyên biệt (CMS Model 3D)**  
-> **Triết lý thiết kế:** *Less is More* – Tối ưu hóa hiệu năng 60FPS, bảo mật kim tự tháp 4 cấp bậc và tự động hóa AI toàn diện.
+> **Báo Cáo Đồ Án Kết Thúc Môn: Xây dựng và tối ưu hệ thống thương mại điện tử chuyên biệt (TTH Helmets - Nón Bảo Hiểm Phượt)**  
+> **Triết lý thiết kế:** *Đồng hành cùng bạn trên mọi cung đường* – Tối ưu hóa hiệu năng 60FPS, bảo mật kim tự tháp và Trợ lý AI Biker chuyên nghiệp.
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![WordPress](https://img.shields.io/badge/WordPress-6.x%20%2F%207.x-21759b.svg?logo=wordpress)](https://wordpress.org)
@@ -14,7 +14,7 @@
 ## 👥 THÀNH VIÊN NHÓM THỰC HIỆN
 | STT | Họ và Tên | MSSV | Vai Trò & Phụ Trách Kỹ Thuật |
 |:---:|---|:---:|---|
-| **1** | **Nguyễn Minh Thuận** *(Trưởng nhóm)* | `2500114700` | • Thiết kế kiến trúc phân quyền 4 cấp bảo mật kim tự tháp.<br>• Xây dựng cổng thanh toán 2 bước VietQR MB Bank tự động.<br>• Tối ưu hiệu năng WPO 60FPS (GPU Hardware Acceleration).<br>• Tích hợp Trợ lý ảo Chatbox AI 3D Model tư vấn 24/7. |
+| **1** | **Nguyễn Minh Thuận** *(Trưởng nhóm)* | `2500114700` | • Thiết kế kiến trúc phân quyền 4 cấp bảo mật kim tự tháp.<br>• Xây dựng cổng thanh toán 2 bước VietQR MB Bank tự động.<br>• Tối ưu hiệu năng WPO 60FPS (GPU Hardware Acceleration).<br>• Tích hợp Trợ lý ảo Chatbox AI Biker tư vấn nón phượt & size đầu 24/7. |
 | **2** | **Đào Minh Tuấn** | `2500115853` | • Thiết kế kiến trúc dữ liệu tồn kho tổng và cơ chế Zero Overselling.<br>• Xây dựng trung tâm điều hành đơn hàng đa vai trò (HPOS).<br>• Quy trình tự động hóa xác thực và tiến trình vận đơn 4 bước VIP.<br>• Tối ưu luồng trải nghiệm khách hàng và quản trị viên. |
 
 ---
@@ -22,7 +22,7 @@
 ## 🌐 ĐƯỜNG LINK TRẢI NGHIỆM TRỰC TIẾP
 * 🛒 **Website Online (Hosting InfinityFree):** [http://model3d.wuaze.com/](http://model3d.wuaze.com/)
 * 📊 **Slide Báo Cáo Thuyết Trình Đồ Án:** [http://model3d.wuaze.com/slides.html](http://model3d.wuaze.com/slides.html)
-* 🐙 **GitHub Repository Chính Thức:** [https://github.com/nguyenminhthuan-vlsc/Do_An_CMS.git](https://github.com/nguyenminhthuan-vlsc/Do_An_CMS.git)
+* 🐙 **GitHub Repository Chính Thức:** [https://github.com/nguyenminhthuan-vlsc/non_bike.git](https://github.com/nguyenminhthuan-vlsc/non_bike.git)
 
 ---
 

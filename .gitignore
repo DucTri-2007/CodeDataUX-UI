@@ -1,6 +1,7 @@
 # Environment and Local by Flywheel files
 conf/
 logs/
+app/
 local-site.json
 *.log
 *.zip
