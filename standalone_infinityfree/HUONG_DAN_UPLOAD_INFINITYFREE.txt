@@ -1,0 +1,46 @@
+# HƯỚNG DẪN 3 BƯỚC UPLOAD WEBSITE LÊN INFINITYFREE (model3d.wuaze.com)
+
+Xin chúc mừng! Toàn bộ website đã được đóng gói thành công ở chế độ **ĐỘC LẬP 100% (Standalone Cloud Ready)**.
+Website không cần đến Local (Flywheel), không cần cấu hình MySQL phức tạp và chạy vĩnh viễn trên hosting InfinityFree.
+
+---
+
+## 📦 THÀNH PHẦN TRONG GÓI DEPLOY:
+1. `index.html`: Trang chủ Storefront Bán Mô Hình 3D tuyệt đẹp, đầy đủ thông số 2 phiên bản (Resin 30cm & PVC 16cm), bảng so sánh kỹ thuật, thư viện ảnh 3D và **Trợ Lý Ảo Chatbox AI tích hợp sẵn** giải đáp mọi thắc mắc 24/7!
+2. `slides.html`: Toàn bộ 6 Slide Báo Cáo Đồ Án Kết Thúc Môn (Thuận & Tuấn) chuẩn WPO 60FPS, kịch bản thuyết trình và nút chuyển đổi qua lại với Cửa Hàng 3D.
+3. `assets/`: Toàn bộ hình ảnh sản phẩm (Swordsman, Karin, Ronova, VietQR MB Bank) và file CSS/JS.
+
+---
+
+## 🚀 3 BƯỚC UPLOAD LÊN TÊN MIỀN model3d.wuaze.com:
+
+### BƯỚC 1: Đăng nhập InfinityFree
+- Truy cập: https://dash.infinityfree.com/
+- Bấm vào tài khoản của bạn: **`if0_42932265`** (Domain: `model3d.wuaze.com`).
+- Chọn nút **File Manager** (Trình quản lý tệp).
+
+### BƯỚC 2: Vào thư mục chứa web (htdocs)
+- Trong File Manager, bấm mở thư mục **`htdocs`** (hoặc `model3d.wuaze.com/htdocs`).
+- **LƯU Ý:** Nếu trong thư mục `htdocs` đang có sẵn các file mặc định như `index2.html` hoặc `default.php`, hãy chọn và xóa (Delete) chúng đi để tránh xung đột.
+
+### BƯỚC 3: Upload và Giải Nén
+Có 2 cách cực kỳ nhanh:
+
+* **CÁCH A (Nhanh nhất - Dùng file ZIP):**
+  1. Trong File Manager, nhìn thanh công cụ bên dưới hoặc nút menu, bấm biểu tượng **Upload Zip** (hoặc nút Upload).
+  2. Chọn file: `model3d_infinityfree_upload.zip` (đã tạo sẵn trên Desktop và trong thư mục dự án).
+  3. Bấm xác nhận giải nén (**Upload and Extract**).
+  4. Đảm bảo các file `index.html`, `slides.html` và thư mục `assets` nằm ngay bên trong thư mục `htdocs`.
+
+* **CÁCH B (Kéo thả trực tiếp):**
+  1. Mở thư mục `standalone_infinityfree` trên máy tính.
+  2. Kéo thả toàn bộ: `index.html`, `slides.html` và thư mục `assets` vào thẳng giao diện File Manager của `htdocs`.
+
+---
+
+## 🎉 TRUY CẬP VÀ NGHIỆM THU:
+Sau khi upload xong, bạn mở trình duyệt và truy cập:
+- 🌐 **Trang chủ Cửa Hàng 3D:** http://model3d.wuaze.com/
+- 📊 **Trang Slide Thuyết Trình:** http://model3d.wuaze.com/slides.html
+
+Mọi tính năng từ giao diện Dark Cyberpunk, xem sản phẩm, đến Chatbox AI hỏi đáp đều chạy độc lập hoàn hảo 24/7!
